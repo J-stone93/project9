@@ -1,4 +1,4 @@
-package finalex.quiz;
+package finalex;
 
 //class A extends String{
 //	

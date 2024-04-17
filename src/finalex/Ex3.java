@@ -1,4 +1,4 @@
-package finalex.quiz;
+package finalex;
 
 public class Ex3 {
 
